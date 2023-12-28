@@ -48,8 +48,8 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 ```
 '''Program to find L and U matrix using LU decomposition.
-Developed by: Santhan Kumar
-RegisterNumber: 23004568
+Developed by: Thrinesh Royal
+RegisterNumber: 23004810
 '''
 from scipy.linalg import lu
 import numpy as np
@@ -62,8 +62,8 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 '''Program to solve a matrix using LU decomposition.
-Developed by: Santhan Kumar
-RegisterNumber: 23004568
+Developed by: Thrinesh Royal
+RegisterNumber: 23004810
 '''
 
 # To print X matrix (solution to the equations)
